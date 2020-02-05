@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 0db67b1a604745040b2fa18a9ca77381
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Chest
+    100008: Head
+    100010: Leg_L
+    100012: Leg_R
+    100014: Origin
+    100016: Proto0
+    100018: Proto1
+    100020: Proto2
+    100022: Proto3
+    100024: Proto4
+    100026: //RootNode
+    100028: RefBot
+    100030: Proto5
+    100032: Armor0
+    100034: Armor1
+    100036: Armor2
+    100038: Cape
+    100040: Naked
+    100042: Armor3
+    100044: Type0
+    100046: Type1
+    100048: Type2
+    100050: Type3
+    100052: Type4
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Chest
+    400008: Head
+    400010: Leg_L
+    400012: Leg_R
+    400014: Origin
+    400016: Proto0
+    400018: Proto1
+    400020: Proto2
+    400022: Proto3
+    400024: Proto4
+    400026: //RootNode
+    400028: RefBot
+    400030: Proto5
+    400032: Armor0
+    400034: Armor1
+    400036: Armor2
+    400038: Cape
+    400040: Naked
+    400042: Armor3
+    400044: Type0
+    400046: Type1
+    400048: Type2
+    400050: Type3
+    400052: Type4
+    2100000: Dark
+    2100002: Light
+    2100004: Red
+    2100006: Brown
+    2100008: Material
+    2100010: 1
+    2100012: 2
+    2100014: 3
+    2100016: 4
+    2100018: 5
+    2100020: Skin
+    2100022: Fur
+    2100024: Armor
+    2100026: Horn
+    2300000: Proto0
+    2300002: Proto1
+    2300004: Proto2
+    2300006: Proto3
+    2300008: Proto4
+    2300010: RefBot
+    2300012: Cape
+    3300000: Proto0
+    3300002: Proto1
+    3300004: Proto2
+    3300006: Proto3
+    3300008: Proto4
+    3300010: RefBot
+    3300012: Cape
+    4300000: Proto3
+    4300002: Proto4
+    4300004: Proto2
+    4300006: Proto1
+    4300008: Proto0
+    4300010: RefBot
+    4300012: Proto5
+    4300014: Armor1
+    4300016: Armor0
+    4300018: Armor2
+    4300020: Cape
+    4300022: Naked
+    4300024: Armor3
+    4300026: Type4
+    4300028: Type2
+    4300030: Type3
+    4300032: Type1
+    4300034: Type0
+    7400000: Default Take
+    7400002: PBWalk
+    9500000: //RootNode
+    13700000: Proto4
+    13700002: Proto5
+    13700004: Armor0
+    13700006: Armor1
+    13700008: Armor2
+    13700010: Naked
+    13700012: Armor3
+    13700014: Proto0
+    13700016: Type0
+    13700018: Type1
+    13700020: Type2
+    13700022: Type3
+    13700024: Type4
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PBWalk
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

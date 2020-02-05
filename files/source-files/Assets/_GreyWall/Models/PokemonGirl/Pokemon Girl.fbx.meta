@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: c3e3d6ab0b9ccb04f947e5f1b73904cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body
+    100004: Head
+    100006: head
+    100008: Hips
+    100010: LArmA
+    100012: LFoot
+    100014: LFoot_end
+    100016: LForeArm
+    100018: LHand
+    100020: LHand_end
+    100022: LLeg
+    100024: loc_eye
+    100026: loc_eye_end
+    100028: loc_head
+    100030: loc_head_end
+    100032: loc_mouth
+    100034: loc_mouth_end
+    100036: LThigh
+    100038: Neck
+    100040: Origin
+    100042: //RootNode
+    100044: RArmA
+    100046: RFoot
+    100048: RFoot_end
+    100050: RForeArm
+    100052: RHand
+    100054: RHand_end
+    100056: RLeg
+    100058: rstr0111_00_fi
+    100060: RThigh
+    100062: Spine1
+    100064: Spine2
+    100066: Waist
+    400000: Armature
+    400002: body
+    400004: Head
+    400006: head
+    400008: Hips
+    400010: LArmA
+    400012: LFoot
+    400014: LFoot_end
+    400016: LForeArm
+    400018: LHand
+    400020: LHand_end
+    400022: LLeg
+    400024: loc_eye
+    400026: loc_eye_end
+    400028: loc_head
+    400030: loc_head_end
+    400032: loc_mouth
+    400034: loc_mouth_end
+    400036: LThigh
+    400038: Neck
+    400040: Origin
+    400042: //RootNode
+    400044: RArmA
+    400046: RFoot
+    400048: RFoot_end
+    400050: RForeArm
+    400052: RHand
+    400054: RHand_end
+    400056: RLeg
+    400058: rstr0111_00_fi
+    400060: RThigh
+    400062: Spine1
+    400064: Spine2
+    400066: Waist
+    2100000: headMat
+    2100002: bodyMat
+    4300000: head
+    4300002: body
+    7400000: PokemonGirlIdle
+    9500000: //RootNode
+    13700000: body
+    13700002: head
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodyMat
+    second: {fileID: 2100000, guid: 9a1d1457ce542c1458ac530e5a7067f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headMat
+    second: {fileID: 2100000, guid: ef2409b8938fc5a47a0d52b072e3abc3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PokemonGirlIdle
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
