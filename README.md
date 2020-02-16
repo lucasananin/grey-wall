@@ -1,4 +1,4 @@
-![Grey Wall Gif] (grey-wall/files/media/GW Gif 1.gif)
+![Grey Wall Gif] (https://raw.githubusercontent.com/lucasananin/grey-wall/master/files/media/GW%20Gif%201.gif)
 
 # grey-wall
 
