@@ -1,4 +1,4 @@
-![GW Gif] (https://raw.githubusercontent.com/lucasananin/grey-wall/master/files/media/GW%20Gif%201.gif)
+![GW Gif] (https://vignette.wikia.nocookie.net/overlordmaruyama/images/e/ed/Dwarf.png/revision/latest?cb=20160918111359)
 
 # grey-wall
 
