@@ -1,4 +1,4 @@
-![Grey Wall Gif] (files/media/GW Gif 1.gif)
+![Grey Wall Gif] (grey-wall/files/media/GW Gif 1.gif)
 
 # grey-wall
 
