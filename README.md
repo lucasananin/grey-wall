@@ -1,3 +1,6 @@
+![Grey Wall Gif] (/files/media/GW Gif 1.gif)
+Format: ![Alt Text] (url)
+
 # grey-wall
 
 Grey Wall is a top-down shooter where you have to survive as long as you can using different weapons and abilities against endless hordes of enemies.
