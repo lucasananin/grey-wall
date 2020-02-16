@@ -1,5 +1,4 @@
-![Grey Wall Gif] (/files/media/GW Gif 1.gif)
-Format: ![Alt Text] (url)
+![Grey Wall Gif] (files/media/GW Gif 1.gif)
 
 # grey-wall
 
