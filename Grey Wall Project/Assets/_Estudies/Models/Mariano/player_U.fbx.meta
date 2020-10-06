@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 69b79da8ff45e8249a2fe3da0ca0f308
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: antebraco_L
+    100002: antebraco_R
+    100004: Armature
+    100006: base
+    100008: Braco_L
+    100010: Braco_R
+    100012: cabecaControler
+    100014: cabecaControler_end
+    100016: cabecaEscravo
+    100018: cabecaEscravo_end
+    100020: Cintura
+    100022: coluna_1
+    100024: coluna_2
+    100026: ControladorCorpo
+    100028: cotovelo_L
+    100030: cotovelo_L_end
+    100032: cotovelo_R
+    100034: cotovelo_R_end
+    100036: Coxa_L
+    100038: Coxa_R
+    100040: Cube
+    100042: Cube.001
+    100044: Cube.003
+    100046: dedosPes_L
+    100048: dedosPes_L_end
+    100050: dedosPes_R
+    100052: dedosPes_R_end
+    100054: indicador1_L
+    100056: indicador1_R
+    100058: indicador2_L
+    100060: indicador2_R
+    100062: indicador3_L
+    100064: indicador3_L_end
+    100066: indicador3_R
+    100068: indicador3_R_end
+    100070: joelho_L
+    100072: joelho_L_end
+    100074: joelho_R
+    100076: joelho_R_end
+    100078: maoControler_L
+    100080: maoControler_L_end
+    100082: maoControler_R
+    100084: maoControler_R_end
+    100086: maoEscravo_L
+    100088: maoEscravo_R
+    100090: minimo1_L
+    100092: minimo1_R
+    100094: minimo2_L
+    100096: minimo2_R
+    100098: minimo3_L
+    100100: minimo3_L_end
+    100102: minimo3_R
+    100104: minimo3_R_end
+    100106: Ombro_L
+    100108: Ombro_R
+    100110: Perna_L
+    100112: Perna_R
+    100114: pescoco
+    100116: pesControler_L
+    100118: pesControler_L_end
+    100120: pesControler_R
+    100122: pesControler_R_end
+    100124: pesEscravo_L
+    100126: pesEscravo_R
+    100128: Plane
+    100130: //RootNode
+    100132: polegar1_L
+    100134: polegar1_R
+    100136: polegar2_L
+    100138: polegar2_R
+    100140: polegar3_L
+    100142: polegar3_L_end
+    100144: polegar3_R
+    100146: polegar3_R_end
+    400000: antebraco_L
+    400002: antebraco_R
+    400004: Armature
+    400006: base
+    400008: Braco_L
+    400010: Braco_R
+    400012: cabecaControler
+    400014: cabecaControler_end
+    400016: cabecaEscravo
+    400018: cabecaEscravo_end
+    400020: Cintura
+    400022: coluna_1
+    400024: coluna_2
+    400026: ControladorCorpo
+    400028: cotovelo_L
+    400030: cotovelo_L_end
+    400032: cotovelo_R
+    400034: cotovelo_R_end
+    400036: Coxa_L
+    400038: Coxa_R
+    400040: Cube
+    400042: Cube.001
+    400044: Cube.003
+    400046: dedosPes_L
+    400048: dedosPes_L_end
+    400050: dedosPes_R
+    400052: dedosPes_R_end
+    400054: indicador1_L
+    400056: indicador1_R
+    400058: indicador2_L
+    400060: indicador2_R
+    400062: indicador3_L
+    400064: indicador3_L_end
+    400066: indicador3_R
+    400068: indicador3_R_end
+    400070: joelho_L
+    400072: joelho_L_end
+    400074: joelho_R
+    400076: joelho_R_end
+    400078: maoControler_L
+    400080: maoControler_L_end
+    400082: maoControler_R
+    400084: maoControler_R_end
+    400086: maoEscravo_L
+    400088: maoEscravo_R
+    400090: minimo1_L
+    400092: minimo1_R
+    400094: minimo2_L
+    400096: minimo2_R
+    400098: minimo3_L
+    400100: minimo3_L_end
+    400102: minimo3_R
+    400104: minimo3_R_end
+    400106: Ombro_L
+    400108: Ombro_R
+    400110: Perna_L
+    400112: Perna_R
+    400114: pescoco
+    400116: pesControler_L
+    400118: pesControler_L_end
+    400120: pesControler_R
+    400122: pesControler_R_end
+    400124: pesEscravo_L
+    400126: pesEscravo_R
+    400128: Plane
+    400130: //RootNode
+    400132: polegar1_L
+    400134: polegar1_R
+    400136: polegar2_L
+    400138: polegar2_R
+    400140: polegar3_L
+    400142: polegar3_L_end
+    400144: polegar3_R
+    400146: polegar3_R_end
+    2100000: branco
+    2100002: vermelho
+    4300000: Cube.003
+    4300002: Cube.001
+    4300004: Cube
+    4300006: Plane
+    7400000: Armature|cai
+    7400002: Armature|Correndo
+    7400004: Armature|mirando e andando pra esquerda
+    7400006: Armature|mirando e andando pra frente
+    7400008: Armature|parado sem arma
+    7400010: Armature|pulo
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube.001
+    13700004: Cube.003
+    13700006: Plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branco
+    second: {fileID: 2100000, guid: d4151830d7e808e40a956290dc1aa335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vermelho
+    second: {fileID: 2100000, guid: 92ccf77d4e171a74182cf61707cf4f59, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|cai
+      takeName: Armature|cai
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Correndo
+      takeName: Armature|Correndo
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|mirando e andando pra esquerda
+      takeName: Armature|mirando e andando pra esquerda
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|mirando e andando pra frente
+      takeName: Armature|mirando e andando pra frente
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|parado sem arma
+      takeName: Armature|parado sem arma
+      firstFrame: 0
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|pulo
+      takeName: Armature|pulo
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

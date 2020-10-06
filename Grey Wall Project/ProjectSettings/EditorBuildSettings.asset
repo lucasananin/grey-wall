@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_GreyWall/Scenes/MainMenu.unity
+    guid: ceaad890f470dbe48ba325fe0ab98877
+  - enabled: 1
+    path: Assets/_GreyWall/Scenes/Intro.unity
+    guid: 9adeec7c6595f354ba36c55fa36e721f
+  - enabled: 1
+    path: Assets/_GreyWall/Scenes/Game.unity
+    guid: d434ea1e900535843802d3f3f831f84a
+  - enabled: 0
+    path: Assets/_Estudies/TestRoom.unity
+    guid: ffb3e69f9a74926478f72cc58a974396
+  - enabled: 0
+    path: Assets/_Estudies/PerfilBG.unity
+    guid: 1837a8fa03e9dac449a421f15ba3ca15
+  m_configObjects: {}
