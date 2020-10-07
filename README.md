@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasananin/grey-wall/master/files/media/gw-gameplay.gif">
+  <img src="https://raw.githubusercontent.com/lucasananin/grey-wall/master/GW%20Gif%201.gif">
 </p>
 
 # grey-wall
@@ -11,9 +11,5 @@ You can play on the **browser or download** the game using the link below.
 Itch.io Page: https://lucasananin.itch.io/grey-wall
 
 Made with Unity 2018.4.13f1.
-
-# files
-
-In the "files" folder you will find all the **executables** and the **source files**. Open the "source-files" using Unity launcher, it's recommended that you change the name of this folder for something like "Grey Wall".
 
 *Thanks for reading and have a good day.*
