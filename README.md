@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasananin/grey-wall/master/GW%20Gif%201.gif">
+  <img src="https://raw.githubusercontent.com/lucasananin/grey-wall/master/gw-gameplay.gif">
 </p>
 
 # grey-wall
